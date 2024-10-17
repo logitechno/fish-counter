@@ -1,0 +1,6 @@
+{
+  "token": "",
+  "channelID": "",
+  "logChannelID": "",
+  "messagePattern": "^([1-9]\\d*?)\\s?🐟$"
+}
