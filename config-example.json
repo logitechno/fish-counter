@@ -1,6 +1,6 @@
 {
-  "token": "",
-  "channelID": "",
-  "logChannelID": "",
+  "token": "BOT_TOKEN",
+  "channelID": "CHANNEL_ID",
+  "logChannelID": "LOG_CHANNEL_ID",
   "messagePattern": "^([1-9]\\d*?)\\s?🐟$"
 }
